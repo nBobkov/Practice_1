@@ -1,2 +1,2 @@
-First line plus conflict_2
+First line plus conflict
 Sekond line (from other user)
